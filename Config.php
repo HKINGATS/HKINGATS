@@ -3,7 +3,7 @@
 This file contains database configuration assuming you are running mysql using user "root" and password ""
 */
 
-define('DB_SERVER', 'localhost:3306');
+define('DB_SERVER', ''192.168.1.254:8484);
 define('DB_USERNAME', 'root');
 define('DB_PASSWORD', 'root');
 define('DB_NAME', 'login');
